@@ -1,0 +1,866 @@
+{
+    "ce_sell_pos_0": {
+        "entry_price": 237.75,
+        "strike": 18100,
+        "option_type": "CE",
+        "date": "02/05/2023",
+        "time": "09:20:59",
+        "qty": 25,
+        "current_price": 220.75
+    },
+    "pe_sell_pos_1": {
+        "entry_price": 140.8,
+        "strike": 18100,
+        "option_type": "PE",
+        "date": "02/05/2023",
+        "time": "09:20:59",
+        "qty": 25,
+        "current_price": 0.05
+    },
+    "ce_buy_pos_2": {
+        "entry_price": 15.45,
+        "strike": 18800,
+        "option_type": "CE",
+        "date": "02/05/2023",
+        "time": "09:20:59",
+        "qty": 25,
+        "current_price": 0.05
+    },
+    "pe_buy_pos_3": {
+        "entry_price": 26.3,
+        "strike": 17400,
+        "option_type": "PE",
+        "date": "02/05/2023",
+        "time": "09:20:59",
+        "qty": 25,
+        "current_price": 0.05
+    },
+    "pe_sell_pos_4": {
+        "entry_price": 126.35,
+        "strike": 18100,
+        "option_type": "PE",
+        "date": "02/05/2023",
+        "time": "09:31:59",
+        "qty": 25,
+        "current_price": 0.05
+    },
+    "pe_buy_pos_5": {
+        "entry_price": 24.2,
+        "strike": 17400,
+        "option_type": "PE",
+        "date": "02/05/2023",
+        "time": "09:31:59",
+        "qty": 25,
+        "current_price": 0.05
+    },
+    "ce_sell_pos_6": {
+        "entry_price": 199.65,
+        "strike": 18100,
+        "option_type": "CE",
+        "date": "03/05/2023",
+        "time": "09:29:59",
+        "qty": 25,
+        "current_price": 220.75
+    },
+    "ce_buy_pos_7": {
+        "entry_price": 12.35,
+        "strike": 18800,
+        "option_type": "CE",
+        "date": "03/05/2023",
+        "time": "09:29:59",
+        "qty": 25,
+        "current_price": 0.05
+    },
+    "pe_sell_pos_8": {
+        "entry_price": 113.4,
+        "strike": 18100,
+        "option_type": "PE",
+        "date": "04/05/2023",
+        "time": "14:33:59",
+        "qty": 25,
+        "current_price": 0.05
+    },
+    "pe_buy_pos_9": {
+        "entry_price": 19.3,
+        "strike": 17400,
+        "option_type": "PE",
+        "date": "04/05/2023",
+        "time": "14:33:59",
+        "qty": 25,
+        "current_price": 0.05
+    },
+    "pe_sell_pos_10": {
+        "entry_price": 98.0,
+        "strike": 18100,
+        "option_type": "PE",
+        "date": "04/05/2023",
+        "time": "15:03:59",
+        "qty": 25,
+        "current_price": 0.05
+    },
+    "pe_buy_pos_11": {
+        "entry_price": 16.2,
+        "strike": 17400,
+        "option_type": "PE",
+        "date": "04/05/2023",
+        "time": "15:03:59",
+        "qty": 25,
+        "current_price": 0.05
+    },
+    "pe_sell_pos_12": {
+        "entry_price": 86.75,
+        "strike": 18100,
+        "option_type": "PE",
+        "date": "08/05/2023",
+        "time": "12:14:59",
+        "qty": 25,
+        "current_price": 0.05
+    },
+    "pe_buy_pos_13": {
+        "entry_price": 14.3,
+        "strike": 17400,
+        "option_type": "PE",
+        "date": "08/05/2023",
+        "time": "12:14:59",
+        "qty": 25,
+        "current_price": 0.05
+    },
+    "pe_sell_pos_14": {
+        "entry_price": 75.75,
+        "strike": 18100,
+        "option_type": "PE",
+        "date": "09/05/2023",
+        "time": "09:21:59",
+        "qty": 25,
+        "current_price": 0.05
+    },
+    "pe_buy_pos_15": {
+        "entry_price": 13.3,
+        "strike": 17400,
+        "option_type": "PE",
+        "date": "09/05/2023",
+        "time": "09:21:59",
+        "qty": 25,
+        "current_price": 0.05
+    },
+    "pe_sell_pos_16": {
+        "entry_price": 67.7,
+        "strike": 18100,
+        "option_type": "PE",
+        "date": "09/05/2023",
+        "time": "11:42:59",
+        "qty": 25,
+        "current_price": 0.05
+    },
+    "pe_buy_pos_17": {
+        "entry_price": 13.75,
+        "strike": 17400,
+        "option_type": "PE",
+        "date": "09/05/2023",
+        "time": "11:42:59",
+        "qty": 25,
+        "current_price": 0.05
+    },
+    "pe_sell_pos_18": {
+        "entry_price": 58.55,
+        "strike": 18100,
+        "option_type": "PE",
+        "date": "11/05/2023",
+        "time": "15:23:59",
+        "qty": 25,
+        "current_price": 0.05
+    },
+    "pe_buy_pos_19": {
+        "entry_price": 10.3,
+        "strike": 17400,
+        "option_type": "PE",
+        "date": "11/05/2023",
+        "time": "15:23:59",
+        "qty": 25,
+        "current_price": 0.05
+    },
+    "pe_sell_pos_20": {
+        "entry_price": 52.65,
+        "strike": 18100,
+        "option_type": "PE",
+        "date": "15/05/2023",
+        "time": "09:25:59",
+        "qty": 25,
+        "current_price": 0.05
+    },
+    "pe_buy_pos_21": {
+        "entry_price": 7.05,
+        "strike": 17400,
+        "option_type": "PE",
+        "date": "15/05/2023",
+        "time": "09:25:59",
+        "qty": 25,
+        "current_price": 0.05
+    },
+    "pe_sell_pos_22": {
+        "entry_price": 46.8,
+        "strike": 18100,
+        "option_type": "PE",
+        "date": "15/05/2023",
+        "time": "09:45:59",
+        "qty": 25,
+        "current_price": 0.05
+    },
+    "pe_buy_pos_23": {
+        "entry_price": 6.9,
+        "strike": 17400,
+        "option_type": "PE",
+        "date": "15/05/2023",
+        "time": "09:45:59",
+        "qty": 25,
+        "current_price": 0.05
+    },
+    "pe_sell_pos_24": {
+        "entry_price": 42.05,
+        "strike": 18100,
+        "option_type": "PE",
+        "date": "15/05/2023",
+        "time": "10:05:59",
+        "qty": 25,
+        "current_price": 0.05
+    },
+    "pe_buy_pos_25": {
+        "entry_price": 6.6,
+        "strike": 17400,
+        "option_type": "PE",
+        "date": "15/05/2023",
+        "time": "10:05:59",
+        "qty": 25,
+        "current_price": 0.05
+    },
+    "pe_sell_pos_26": {
+        "entry_price": 37.65,
+        "strike": 18100,
+        "option_type": "PE",
+        "date": "15/05/2023",
+        "time": "11:11:59",
+        "qty": 25,
+        "current_price": 0.05
+    },
+    "pe_buy_pos_27": {
+        "entry_price": 6.55,
+        "strike": 17400,
+        "option_type": "PE",
+        "date": "15/05/2023",
+        "time": "11:11:59",
+        "qty": 25,
+        "current_price": 0.05
+    },
+    "pe_sell_pos_28": {
+        "entry_price": 32.9,
+        "strike": 18100,
+        "option_type": "PE",
+        "date": "15/05/2023",
+        "time": "12:39:59",
+        "qty": 25,
+        "current_price": 0.05
+    },
+    "pe_buy_pos_29": {
+        "entry_price": 6.75,
+        "strike": 17400,
+        "option_type": "PE",
+        "date": "15/05/2023",
+        "time": "12:39:59",
+        "qty": 25,
+        "current_price": 0.05
+    },
+    "ce_sell_pos_30": {
+        "entry_price": 178.35,
+        "strike": 18100,
+        "option_type": "CE",
+        "date": "17/05/2023",
+        "time": "11:50:59",
+        "qty": 25,
+        "current_price": 220.75
+    },
+    "ce_buy_pos_31": {
+        "entry_price": 4.95,
+        "strike": 18800,
+        "option_type": "CE",
+        "date": "17/05/2023",
+        "time": "11:50:59",
+        "qty": 25,
+        "current_price": 0.05
+    },
+    "ce_sell_pos_32": {
+        "entry_price": 159.85,
+        "strike": 18100,
+        "option_type": "CE",
+        "date": "17/05/2023",
+        "time": "13:02:59",
+        "qty": 25,
+        "current_price": 220.75
+    },
+    "ce_buy_pos_33": {
+        "entry_price": 4.8,
+        "strike": 18800,
+        "option_type": "CE",
+        "date": "17/05/2023",
+        "time": "13:02:59",
+        "qty": 25,
+        "current_price": 0.05
+    },
+    "ce_sell_pos_34": {
+        "entry_price": 143.15,
+        "strike": 18100,
+        "option_type": "CE",
+        "date": "18/05/2023",
+        "time": "15:01:59",
+        "qty": 25,
+        "current_price": 220.75
+    },
+    "ce_buy_pos_35": {
+        "entry_price": 2.95,
+        "strike": 18800,
+        "option_type": "CE",
+        "date": "18/05/2023",
+        "time": "15:01:59",
+        "qty": 25,
+        "current_price": 0.05
+    },
+    "ce_sell_pos_36": {
+        "entry_price": 127.55,
+        "strike": 18100,
+        "option_type": "CE",
+        "date": "19/05/2023",
+        "time": "09:33:59",
+        "qty": 25,
+        "current_price": 220.75
+    },
+    "ce_buy_pos_37": {
+        "entry_price": 2.55,
+        "strike": 18800,
+        "option_type": "CE",
+        "date": "19/05/2023",
+        "time": "09:33:59",
+        "qty": 25,
+        "current_price": 0.05
+    },
+    "ce_sell_pos_38": {
+        "entry_price": 114.25,
+        "strike": 18100,
+        "option_type": "CE",
+        "date": "19/05/2023",
+        "time": "09:39:59",
+        "qty": 25,
+        "current_price": 220.75
+    },
+    "ce_buy_pos_39": {
+        "entry_price": 2.3,
+        "strike": 18800,
+        "option_type": "CE",
+        "date": "19/05/2023",
+        "time": "09:39:59",
+        "qty": 25,
+        "current_price": 0.05
+    },
+    "ce_sell_pos_40": {
+        "entry_price": 102.15,
+        "strike": 18100,
+        "option_type": "CE",
+        "date": "19/05/2023",
+        "time": "09:54:59",
+        "qty": 25,
+        "current_price": 220.75
+    },
+    "ce_buy_pos_41": {
+        "entry_price": 2.35,
+        "strike": 18800,
+        "option_type": "CE",
+        "date": "19/05/2023",
+        "time": "09:54:59",
+        "qty": 25,
+        "current_price": 0.05
+    },
+    "ce_sell_pos_42": {
+        "entry_price": 89.55,
+        "strike": 18100,
+        "option_type": "CE",
+        "date": "19/05/2023",
+        "time": "10:39:59",
+        "qty": 25,
+        "current_price": 220.75
+    },
+    "ce_buy_pos_43": {
+        "entry_price": 2.35,
+        "strike": 18800,
+        "option_type": "CE",
+        "date": "19/05/2023",
+        "time": "10:39:59",
+        "qty": 25,
+        "current_price": 0.05
+    },
+    "pe_sell_pos_44": {
+        "entry_price": 27.85,
+        "strike": 18100,
+        "option_type": "PE",
+        "date": "22/05/2023",
+        "time": "09:32:59",
+        "qty": 25,
+        "current_price": 0.05
+    },
+    "pe_buy_pos_45": {
+        "entry_price": 2.35,
+        "strike": 17400,
+        "option_type": "PE",
+        "date": "22/05/2023",
+        "time": "09:32:59",
+        "qty": 25,
+        "current_price": 0.05
+    },
+    "pe_sell_pos_46": {
+        "entry_price": 23.65,
+        "strike": 18100,
+        "option_type": "PE",
+        "date": "22/05/2023",
+        "time": "09:37:59",
+        "qty": 25,
+        "current_price": 0.05
+    },
+    "pe_buy_pos_47": {
+        "entry_price": 2.3,
+        "strike": 17400,
+        "option_type": "PE",
+        "date": "22/05/2023",
+        "time": "09:37:59",
+        "qty": 25,
+        "current_price": 0.05
+    },
+    "pe_sell_pos_48": {
+        "entry_price": 20.35,
+        "strike": 18100,
+        "option_type": "PE",
+        "date": "22/05/2023",
+        "time": "10:45:59",
+        "qty": 25,
+        "current_price": 0.05
+    },
+    "pe_buy_pos_49": {
+        "entry_price": 2.2,
+        "strike": 17400,
+        "option_type": "PE",
+        "date": "22/05/2023",
+        "time": "10:45:59",
+        "qty": 25,
+        "current_price": 0.05
+    },
+    "pe_sell_pos_50": {
+        "entry_price": 17.55,
+        "strike": 18100,
+        "option_type": "PE",
+        "date": "22/05/2023",
+        "time": "13:56:59",
+        "qty": 25,
+        "current_price": 0.05
+    },
+    "pe_buy_pos_51": {
+        "entry_price": 2.15,
+        "strike": 17400,
+        "option_type": "PE",
+        "date": "22/05/2023",
+        "time": "13:56:59",
+        "qty": 25,
+        "current_price": 0.05
+    },
+    "pe_sell_pos_52": {
+        "entry_price": 15.35,
+        "strike": 18100,
+        "option_type": "PE",
+        "date": "22/05/2023",
+        "time": "14:12:59",
+        "qty": 25,
+        "current_price": 0.05
+    },
+    "pe_buy_pos_53": {
+        "entry_price": 2.2,
+        "strike": 17400,
+        "option_type": "PE",
+        "date": "22/05/2023",
+        "time": "14:12:59",
+        "qty": 25,
+        "current_price": 0.05
+    },
+    "pe_sell_pos_54": {
+        "entry_price": 13.1,
+        "strike": 18100,
+        "option_type": "PE",
+        "date": "22/05/2023",
+        "time": "15:04:59",
+        "qty": 25,
+        "current_price": 0.05
+    },
+    "pe_buy_pos_55": {
+        "entry_price": 2.25,
+        "strike": 17400,
+        "option_type": "PE",
+        "date": "22/05/2023",
+        "time": "15:04:59",
+        "qty": 25,
+        "current_price": 0.05
+    },
+    "pe_sell_pos_56": {
+        "entry_price": 8.75,
+        "strike": 18100,
+        "option_type": "PE",
+        "date": "23/05/2023",
+        "time": "09:46:59",
+        "qty": 25,
+        "current_price": 0.05
+    },
+    "pe_buy_pos_57": {
+        "entry_price": 2.45,
+        "strike": 17400,
+        "option_type": "PE",
+        "date": "23/05/2023",
+        "time": "09:46:59",
+        "qty": 25,
+        "current_price": 0.05
+    },
+    "pe_sell_pos_58": {
+        "entry_price": 7.8,
+        "strike": 18100,
+        "option_type": "PE",
+        "date": "23/05/2023",
+        "time": "10:27:59",
+        "qty": 25,
+        "current_price": 0.05
+    },
+    "pe_buy_pos_59": {
+        "entry_price": 2.25,
+        "strike": 17400,
+        "option_type": "PE",
+        "date": "23/05/2023",
+        "time": "10:27:59",
+        "qty": 25,
+        "current_price": 0.05
+    },
+    "pe_sell_pos_60": {
+        "entry_price": 6.7,
+        "strike": 18100,
+        "option_type": "PE",
+        "date": "23/05/2023",
+        "time": "12:36:59",
+        "qty": 25,
+        "current_price": 0.05
+    },
+    "pe_buy_pos_61": {
+        "entry_price": 2.0,
+        "strike": 17400,
+        "option_type": "PE",
+        "date": "23/05/2023",
+        "time": "12:36:59",
+        "qty": 25,
+        "current_price": 0.05
+    },
+    "pe_sell_pos_62": {
+        "entry_price": 5.9,
+        "strike": 18100,
+        "option_type": "PE",
+        "date": "23/05/2023",
+        "time": "13:47:59",
+        "qty": 25,
+        "current_price": 0.05
+    },
+    "pe_buy_pos_63": {
+        "entry_price": 1.95,
+        "strike": 17400,
+        "option_type": "PE",
+        "date": "23/05/2023",
+        "time": "13:47:59",
+        "qty": 25,
+        "current_price": 0.05
+    },
+    "pe_sell_pos_64": {
+        "entry_price": 5.3,
+        "strike": 18100,
+        "option_type": "PE",
+        "date": "23/05/2023",
+        "time": "14:20:59",
+        "qty": 25,
+        "current_price": 0.05
+    },
+    "pe_buy_pos_65": {
+        "entry_price": 1.9,
+        "strike": 17400,
+        "option_type": "PE",
+        "date": "23/05/2023",
+        "time": "14:20:59",
+        "qty": 25,
+        "current_price": 0.05
+    },
+    "pe_sell_pos_66": {
+        "entry_price": 4.55,
+        "strike": 18100,
+        "option_type": "PE",
+        "date": "24/05/2023",
+        "time": "10:45:59",
+        "qty": 25,
+        "current_price": 0.05
+    },
+    "pe_buy_pos_67": {
+        "entry_price": 1.45,
+        "strike": 17400,
+        "option_type": "PE",
+        "date": "24/05/2023",
+        "time": "10:45:59",
+        "qty": 25,
+        "current_price": 0.05
+    },
+    "pe_sell_pos_68": {
+        "entry_price": 4.0,
+        "strike": 18100,
+        "option_type": "PE",
+        "date": "24/05/2023",
+        "time": "15:21:59",
+        "qty": 25,
+        "current_price": 0.05
+    },
+    "pe_buy_pos_69": {
+        "entry_price": 0.7,
+        "strike": 17400,
+        "option_type": "PE",
+        "date": "24/05/2023",
+        "time": "15:21:59",
+        "qty": 25,
+        "current_price": 0.05
+    },
+    "pe_sell_pos_70": {
+        "entry_price": 3.0,
+        "strike": 18100,
+        "option_type": "PE",
+        "date": "25/05/2023",
+        "time": "09:32:59",
+        "qty": 25,
+        "current_price": 0.05
+    },
+    "pe_buy_pos_71": {
+        "entry_price": 0.45,
+        "strike": 17400,
+        "option_type": "PE",
+        "date": "25/05/2023",
+        "time": "09:32:59",
+        "qty": 25,
+        "current_price": 0.05
+    },
+    "pe_sell_pos_72": {
+        "entry_price": 2.2,
+        "strike": 18100,
+        "option_type": "PE",
+        "date": "25/05/2023",
+        "time": "09:51:59",
+        "qty": 25,
+        "current_price": 0.05
+    },
+    "pe_buy_pos_73": {
+        "entry_price": 0.5,
+        "strike": 17400,
+        "option_type": "PE",
+        "date": "25/05/2023",
+        "time": "09:51:59",
+        "qty": 25,
+        "current_price": 0.05
+    },
+    "pe_sell_pos_74": {
+        "entry_price": 1.95,
+        "strike": 18100,
+        "option_type": "PE",
+        "date": "25/05/2023",
+        "time": "10:21:59",
+        "qty": 25,
+        "current_price": 0.05
+    },
+    "pe_buy_pos_75": {
+        "entry_price": 0.55,
+        "strike": 17400,
+        "option_type": "PE",
+        "date": "25/05/2023",
+        "time": "10:21:59",
+        "qty": 25,
+        "current_price": 0.05
+    },
+    "pe_sell_pos_76": {
+        "entry_price": 1.7,
+        "strike": 18100,
+        "option_type": "PE",
+        "date": "25/05/2023",
+        "time": "10:49:59",
+        "qty": 25,
+        "current_price": 0.05
+    },
+    "pe_buy_pos_77": {
+        "entry_price": 0.45,
+        "strike": 17400,
+        "option_type": "PE",
+        "date": "25/05/2023",
+        "time": "10:49:59",
+        "qty": 25,
+        "current_price": 0.05
+    },
+    "pe_sell_pos_78": {
+        "entry_price": 1.5,
+        "strike": 18100,
+        "option_type": "PE",
+        "date": "25/05/2023",
+        "time": "11:57:59",
+        "qty": 25,
+        "current_price": 0.05
+    },
+    "pe_buy_pos_79": {
+        "entry_price": 0.3,
+        "strike": 17400,
+        "option_type": "PE",
+        "date": "25/05/2023",
+        "time": "11:57:59",
+        "qty": 25,
+        "current_price": 0.05
+    },
+    "pe_sell_pos_80": {
+        "entry_price": 1.15,
+        "strike": 18100,
+        "option_type": "PE",
+        "date": "25/05/2023",
+        "time": "12:50:59",
+        "qty": 25,
+        "current_price": 0.05
+    },
+    "pe_buy_pos_81": {
+        "entry_price": 0.3,
+        "strike": 17400,
+        "option_type": "PE",
+        "date": "25/05/2023",
+        "time": "12:50:59",
+        "qty": 25,
+        "current_price": 0.05
+    },
+    "pe_sell_pos_82": {
+        "entry_price": 0.9,
+        "strike": 18100,
+        "option_type": "PE",
+        "date": "25/05/2023",
+        "time": "14:05:59",
+        "qty": 25,
+        "current_price": 0.05
+    },
+    "pe_buy_pos_83": {
+        "entry_price": 0.15,
+        "strike": 17400,
+        "option_type": "PE",
+        "date": "25/05/2023",
+        "time": "14:05:59",
+        "qty": 25,
+        "current_price": 0.05
+    },
+    "pe_sell_pos_84": {
+        "entry_price": 0.8,
+        "strike": 18100,
+        "option_type": "PE",
+        "date": "25/05/2023",
+        "time": "14:06:59",
+        "qty": 25,
+        "current_price": 0.05
+    },
+    "pe_buy_pos_85": {
+        "entry_price": 0.15,
+        "strike": 17400,
+        "option_type": "PE",
+        "date": "25/05/2023",
+        "time": "14:06:59",
+        "qty": 25,
+        "current_price": 0.05
+    },
+    "pe_sell_pos_86": {
+        "entry_price": 0.45,
+        "strike": 18100,
+        "option_type": "PE",
+        "date": "25/05/2023",
+        "time": "14:39:59",
+        "qty": 25,
+        "current_price": 0.05
+    },
+    "pe_buy_pos_87": {
+        "entry_price": 0.15,
+        "strike": 17400,
+        "option_type": "PE",
+        "date": "25/05/2023",
+        "time": "14:39:59",
+        "qty": 25,
+        "current_price": 0.05
+    },
+    "pe_sell_pos_88": {
+        "entry_price": 0.35,
+        "strike": 18100,
+        "option_type": "PE",
+        "date": "25/05/2023",
+        "time": "14:46:59",
+        "qty": 25,
+        "current_price": 0.05
+    },
+    "pe_buy_pos_89": {
+        "entry_price": 0.15,
+        "strike": 17400,
+        "option_type": "PE",
+        "date": "25/05/2023",
+        "time": "14:46:59",
+        "qty": 25,
+        "current_price": 0.05
+    },
+    "pe_sell_pos_90": {
+        "entry_price": 0.2,
+        "strike": 18100,
+        "option_type": "PE",
+        "date": "25/05/2023",
+        "time": "14:50:59",
+        "qty": 25,
+        "current_price": 0.05
+    },
+    "pe_buy_pos_91": {
+        "entry_price": 0.1,
+        "strike": 17400,
+        "option_type": "PE",
+        "date": "25/05/2023",
+        "time": "14:50:59",
+        "qty": 25,
+        "current_price": 0.05
+    },
+    "pe_sell_pos_92": {
+        "entry_price": 0.1,
+        "strike": 18100,
+        "option_type": "PE",
+        "date": "25/05/2023",
+        "time": "14:57:59",
+        "qty": 25,
+        "current_price": 0.05
+    },
+    "pe_buy_pos_93": {
+        "entry_price": 0.05,
+        "strike": 17400,
+        "option_type": "PE",
+        "date": "25/05/2023",
+        "time": "14:57:59",
+        "qty": 25,
+        "current_price": 0.05
+    },
+    "pe_sell_pos_94": {
+        "entry_price": 0.05,
+        "strike": 18100,
+        "option_type": "PE",
+        "date": "25/05/2023",
+        "time": "15:16:59",
+        "qty": 25,
+        "current_price": 0.05
+    },
+    "pe_buy_pos_95": {
+        "entry_price": 0.05,
+        "strike": 17400,
+        "option_type": "PE",
+        "date": "25/05/2023",
+        "time": "15:16:59",
+        "qty": 25,
+        "current_price": 0.05
+    }
+}

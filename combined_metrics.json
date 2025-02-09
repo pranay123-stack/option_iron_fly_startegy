@@ -1,0 +1,23 @@
+{
+    "Overall PnL": 50286.25000000001,
+    "Average Month PnL": 4190.520833333334,
+    "Max Profit Month": {
+        "Month": "2024-02",
+        "Value": 44047.5
+    },
+    "Max Loss Month": {
+        "Month": "2023-10",
+        "Value": -141566.25
+    },
+    "Total Months": 12,
+    "Win %": 83.33333333333334,
+    "Loss %": 16.666666666666664,
+    "Reward to Risk Ratio": 0.2640675887659954,
+    "Expectancy": 0.05338965730499623,
+    "Max Winning Streak": 6,
+    "Max Losing Streak": 2,
+    "Average Profit on Winning Month": 20726.5,
+    "Average Loss on Losing Month": -78489.375,
+    "Max Drawdown": 156978.75,
+    "Max Drawdown Percentage": 126.73118453185863
+}

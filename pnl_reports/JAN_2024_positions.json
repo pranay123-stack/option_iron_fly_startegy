@@ -1,0 +1,1172 @@
+{
+    "ce_sell_pos_0": {
+        "entry_price": 377.25,
+        "strike": 21700,
+        "option_type": "CE",
+        "date": "01/01/2024",
+        "time": "09:20:59",
+        "qty": 25,
+        "current_price": 0.2
+    },
+    "pe_sell_pos_1": {
+        "entry_price": 259.75,
+        "strike": 21700,
+        "option_type": "PE",
+        "date": "01/01/2024",
+        "time": "09:20:59",
+        "qty": 25,
+        "current_price": 348.15
+    },
+    "ce_buy_pos_2": {
+        "entry_price": 94.7,
+        "strike": 22400,
+        "option_type": "CE",
+        "date": "01/01/2024",
+        "time": "09:20:59",
+        "qty": 25,
+        "current_price": 0.05
+    },
+    "pe_buy_pos_3": {
+        "entry_price": 84.1,
+        "strike": 21000,
+        "option_type": "PE",
+        "date": "01/01/2024",
+        "time": "09:20:59",
+        "qty": 25,
+        "current_price": 0.05
+    },
+    "pe_sell_pos_4": {
+        "entry_price": 232.55,
+        "strike": 21700,
+        "option_type": "PE",
+        "date": "01/01/2024",
+        "time": "10:51:59",
+        "qty": 25,
+        "current_price": 348.15
+    },
+    "pe_buy_pos_5": {
+        "entry_price": 72.35,
+        "strike": 21000,
+        "option_type": "PE",
+        "date": "01/01/2024",
+        "time": "10:51:59",
+        "qty": 25,
+        "current_price": 0.05
+    },
+    "pe_sell_pos_6": {
+        "entry_price": 206.2,
+        "strike": 21700,
+        "option_type": "PE",
+        "date": "01/01/2024",
+        "time": "14:04:59",
+        "qty": 25,
+        "current_price": 348.15
+    },
+    "pe_buy_pos_7": {
+        "entry_price": 62.9,
+        "strike": 21000,
+        "option_type": "PE",
+        "date": "01/01/2024",
+        "time": "14:04:59",
+        "qty": 25,
+        "current_price": 0.05
+    },
+    "ce_sell_pos_8": {
+        "entry_price": 339.1,
+        "strike": 21700,
+        "option_type": "CE",
+        "date": "02/01/2024",
+        "time": "09:59:59",
+        "qty": 25,
+        "current_price": 0.2
+    },
+    "ce_buy_pos_9": {
+        "entry_price": 75.95,
+        "strike": 22400,
+        "option_type": "CE",
+        "date": "02/01/2024",
+        "time": "09:59:59",
+        "qty": 25,
+        "current_price": 0.05
+    },
+    "ce_sell_pos_10": {
+        "entry_price": 304.75,
+        "strike": 21700,
+        "option_type": "CE",
+        "date": "02/01/2024",
+        "time": "10:39:59",
+        "qty": 25,
+        "current_price": 0.2
+    },
+    "ce_buy_pos_11": {
+        "entry_price": 64.9,
+        "strike": 22400,
+        "option_type": "CE",
+        "date": "02/01/2024",
+        "time": "10:39:59",
+        "qty": 25,
+        "current_price": 0.05
+    },
+    "ce_sell_pos_12": {
+        "entry_price": 274.05,
+        "strike": 21700,
+        "option_type": "CE",
+        "date": "03/01/2024",
+        "time": "09:43:59",
+        "qty": 25,
+        "current_price": 0.2
+    },
+    "ce_buy_pos_13": {
+        "entry_price": 54.2,
+        "strike": 22400,
+        "option_type": "CE",
+        "date": "03/01/2024",
+        "time": "09:43:59",
+        "qty": 25,
+        "current_price": 0.05
+    },
+    "ce_sell_pos_14": {
+        "entry_price": 245.0,
+        "strike": 21700,
+        "option_type": "CE",
+        "date": "03/01/2024",
+        "time": "14:31:59",
+        "qty": 25,
+        "current_price": 0.2
+    },
+    "ce_buy_pos_15": {
+        "entry_price": 43.15,
+        "strike": 22400,
+        "option_type": "CE",
+        "date": "03/01/2024",
+        "time": "14:31:59",
+        "qty": 25,
+        "current_price": 0.05
+    },
+    "ce_sell_pos_16": {
+        "entry_price": 220.05,
+        "strike": 21700,
+        "option_type": "CE",
+        "date": "03/01/2024",
+        "time": "15:14:59",
+        "qty": 25,
+        "current_price": 0.2
+    },
+    "ce_buy_pos_17": {
+        "entry_price": 35.65,
+        "strike": 22400,
+        "option_type": "CE",
+        "date": "03/01/2024",
+        "time": "15:14:59",
+        "qty": 25,
+        "current_price": 0.05
+    },
+    "ce_sell_pos_18": {
+        "entry_price": 198.0,
+        "strike": 21700,
+        "option_type": "CE",
+        "date": "08/01/2024",
+        "time": "11:55:59",
+        "qty": 25,
+        "current_price": 0.2
+    },
+    "ce_buy_pos_19": {
+        "entry_price": 21.8,
+        "strike": 22400,
+        "option_type": "CE",
+        "date": "08/01/2024",
+        "time": "11:55:59",
+        "qty": 25,
+        "current_price": 0.05
+    },
+    "ce_sell_pos_20": {
+        "entry_price": 176.0,
+        "strike": 21700,
+        "option_type": "CE",
+        "date": "08/01/2024",
+        "time": "15:13:59",
+        "qty": 25,
+        "current_price": 0.2
+    },
+    "ce_buy_pos_21": {
+        "entry_price": 20.2,
+        "strike": 22400,
+        "option_type": "CE",
+        "date": "08/01/2024",
+        "time": "15:13:59",
+        "qty": 25,
+        "current_price": 0.05
+    },
+    "pe_sell_pos_22": {
+        "entry_price": 184.0,
+        "strike": 21700,
+        "option_type": "PE",
+        "date": "09/01/2024",
+        "time": "11:46:59",
+        "qty": 25,
+        "current_price": 348.15
+    },
+    "pe_buy_pos_23": {
+        "entry_price": 36.7,
+        "strike": 21000,
+        "option_type": "PE",
+        "date": "09/01/2024",
+        "time": "11:46:59",
+        "qty": 25,
+        "current_price": 0.05
+    },
+    "ce_sell_pos_24": {
+        "entry_price": 155.8,
+        "strike": 21700,
+        "option_type": "CE",
+        "date": "10/01/2024",
+        "time": "09:28:59",
+        "qty": 25,
+        "current_price": 0.2
+    },
+    "ce_buy_pos_25": {
+        "entry_price": 16.0,
+        "strike": 22400,
+        "option_type": "CE",
+        "date": "10/01/2024",
+        "time": "09:28:59",
+        "qty": 25,
+        "current_price": 0.05
+    },
+    "pe_sell_pos_26": {
+        "entry_price": 138.5,
+        "strike": 21700,
+        "option_type": "PE",
+        "date": "12/01/2024",
+        "time": "10:10:59",
+        "qty": 25,
+        "current_price": 348.15
+    },
+    "pe_buy_pos_27": {
+        "entry_price": 21.75,
+        "strike": 21000,
+        "option_type": "PE",
+        "date": "12/01/2024",
+        "time": "10:10:59",
+        "qty": 25,
+        "current_price": 0.05
+    },
+    "pe_sell_pos_28": {
+        "entry_price": 122.65,
+        "strike": 21700,
+        "option_type": "PE",
+        "date": "12/01/2024",
+        "time": "13:20:59",
+        "qty": 25,
+        "current_price": 348.15
+    },
+    "pe_buy_pos_29": {
+        "entry_price": 21.8,
+        "strike": 21000,
+        "option_type": "PE",
+        "date": "12/01/2024",
+        "time": "13:20:59",
+        "qty": 25,
+        "current_price": 0.05
+    },
+    "pe_sell_pos_30": {
+        "entry_price": 109.85,
+        "strike": 21700,
+        "option_type": "PE",
+        "date": "12/01/2024",
+        "time": "14:31:59",
+        "qty": 25,
+        "current_price": 348.15
+    },
+    "pe_buy_pos_31": {
+        "entry_price": 20.75,
+        "strike": 21000,
+        "option_type": "PE",
+        "date": "12/01/2024",
+        "time": "14:31:59",
+        "qty": 25,
+        "current_price": 0.05
+    },
+    "pe_sell_pos_32": {
+        "entry_price": 98.65,
+        "strike": 21700,
+        "option_type": "PE",
+        "date": "12/01/2024",
+        "time": "15:28:59",
+        "qty": 25,
+        "current_price": 348.15
+    },
+    "pe_buy_pos_33": {
+        "entry_price": 19.55,
+        "strike": 21000,
+        "option_type": "PE",
+        "date": "12/01/2024",
+        "time": "15:28:59",
+        "qty": 25,
+        "current_price": 0.05
+    },
+    "pe_sell_pos_34": {
+        "entry_price": 72.8,
+        "strike": 21700,
+        "option_type": "PE",
+        "date": "15/01/2024",
+        "time": "09:20:59",
+        "qty": 25,
+        "current_price": 348.15
+    },
+    "pe_buy_pos_35": {
+        "entry_price": 14.4,
+        "strike": 21000,
+        "option_type": "PE",
+        "date": "15/01/2024",
+        "time": "09:20:59",
+        "qty": 25,
+        "current_price": 0.05
+    },
+    "pe_sell_pos_36": {
+        "entry_price": 64.5,
+        "strike": 21700,
+        "option_type": "PE",
+        "date": "15/01/2024",
+        "time": "15:23:59",
+        "qty": 25,
+        "current_price": 348.15
+    },
+    "pe_buy_pos_37": {
+        "entry_price": 15.2,
+        "strike": 21000,
+        "option_type": "PE",
+        "date": "15/01/2024",
+        "time": "15:23:59",
+        "qty": 25,
+        "current_price": 0.05
+    },
+    "ce_sell_pos_38": {
+        "entry_price": 98.2,
+        "strike": 21700,
+        "option_type": "CE",
+        "date": "18/01/2024",
+        "time": "09:20:59",
+        "qty": 25,
+        "current_price": 0.2
+    },
+    "ce_buy_pos_39": {
+        "entry_price": 8.2,
+        "strike": 22400,
+        "option_type": "CE",
+        "date": "18/01/2024",
+        "time": "09:20:59",
+        "qty": 25,
+        "current_price": 0.05
+    },
+    "ce_sell_pos_40": {
+        "entry_price": 85.6,
+        "strike": 21700,
+        "option_type": "CE",
+        "date": "18/01/2024",
+        "time": "09:30:59",
+        "qty": 25,
+        "current_price": 0.2
+    },
+    "ce_buy_pos_41": {
+        "entry_price": 6.95,
+        "strike": 22400,
+        "option_type": "CE",
+        "date": "18/01/2024",
+        "time": "09:30:59",
+        "qty": 25,
+        "current_price": 0.05
+    },
+    "ce_sell_pos_42": {
+        "entry_price": 75.5,
+        "strike": 21700,
+        "option_type": "CE",
+        "date": "18/01/2024",
+        "time": "09:38:59",
+        "qty": 25,
+        "current_price": 0.2
+    },
+    "ce_buy_pos_43": {
+        "entry_price": 6.15,
+        "strike": 22400,
+        "option_type": "CE",
+        "date": "18/01/2024",
+        "time": "09:38:59",
+        "qty": 25,
+        "current_price": 0.05
+    },
+    "ce_sell_pos_44": {
+        "entry_price": 67.4,
+        "strike": 21700,
+        "option_type": "CE",
+        "date": "18/01/2024",
+        "time": "09:48:59",
+        "qty": 25,
+        "current_price": 0.2
+    },
+    "ce_buy_pos_45": {
+        "entry_price": 6.6,
+        "strike": 22400,
+        "option_type": "CE",
+        "date": "18/01/2024",
+        "time": "09:48:59",
+        "qty": 25,
+        "current_price": 0.05
+    },
+    "ce_sell_pos_46": {
+        "entry_price": 60.0,
+        "strike": 21700,
+        "option_type": "CE",
+        "date": "18/01/2024",
+        "time": "09:56:59",
+        "qty": 25,
+        "current_price": 0.2
+    },
+    "ce_buy_pos_47": {
+        "entry_price": 6.7,
+        "strike": 22400,
+        "option_type": "CE",
+        "date": "18/01/2024",
+        "time": "09:56:59",
+        "qty": 25,
+        "current_price": 0.05
+    },
+    "ce_sell_pos_48": {
+        "entry_price": 53.25,
+        "strike": 21700,
+        "option_type": "CE",
+        "date": "23/01/2024",
+        "time": "10:51:59",
+        "qty": 25,
+        "current_price": 0.2
+    },
+    "ce_buy_pos_49": {
+        "entry_price": 2.3,
+        "strike": 22400,
+        "option_type": "CE",
+        "date": "23/01/2024",
+        "time": "10:51:59",
+        "qty": 25,
+        "current_price": 0.05
+    },
+    "ce_sell_pos_50": {
+        "entry_price": 47.15,
+        "strike": 21700,
+        "option_type": "CE",
+        "date": "23/01/2024",
+        "time": "11:40:59",
+        "qty": 25,
+        "current_price": 0.2
+    },
+    "ce_buy_pos_51": {
+        "entry_price": 3.0,
+        "strike": 22400,
+        "option_type": "CE",
+        "date": "23/01/2024",
+        "time": "11:40:59",
+        "qty": 25,
+        "current_price": 0.05
+    },
+    "ce_sell_pos_52": {
+        "entry_price": 41.25,
+        "strike": 21700,
+        "option_type": "CE",
+        "date": "23/01/2024",
+        "time": "11:45:59",
+        "qty": 25,
+        "current_price": 0.2
+    },
+    "ce_buy_pos_53": {
+        "entry_price": 3.45,
+        "strike": 22400,
+        "option_type": "CE",
+        "date": "23/01/2024",
+        "time": "11:45:59",
+        "qty": 25,
+        "current_price": 0.05
+    },
+    "ce_sell_pos_54": {
+        "entry_price": 35.9,
+        "strike": 21700,
+        "option_type": "CE",
+        "date": "23/01/2024",
+        "time": "11:58:59",
+        "qty": 25,
+        "current_price": 0.2
+    },
+    "ce_buy_pos_55": {
+        "entry_price": 3.35,
+        "strike": 22400,
+        "option_type": "CE",
+        "date": "23/01/2024",
+        "time": "11:58:59",
+        "qty": 25,
+        "current_price": 0.05
+    },
+    "ce_sell_pos_56": {
+        "entry_price": 32.3,
+        "strike": 21700,
+        "option_type": "CE",
+        "date": "23/01/2024",
+        "time": "12:04:59",
+        "qty": 25,
+        "current_price": 0.2
+    },
+    "ce_buy_pos_57": {
+        "entry_price": 3.3,
+        "strike": 22400,
+        "option_type": "CE",
+        "date": "23/01/2024",
+        "time": "12:04:59",
+        "qty": 25,
+        "current_price": 0.05
+    },
+    "ce_sell_pos_58": {
+        "entry_price": 27.7,
+        "strike": 21700,
+        "option_type": "CE",
+        "date": "23/01/2024",
+        "time": "12:46:59",
+        "qty": 25,
+        "current_price": 0.2
+    },
+    "ce_buy_pos_59": {
+        "entry_price": 3.0,
+        "strike": 22400,
+        "option_type": "CE",
+        "date": "23/01/2024",
+        "time": "12:46:59",
+        "qty": 25,
+        "current_price": 0.05
+    },
+    "ce_sell_pos_60": {
+        "entry_price": 24.4,
+        "strike": 21700,
+        "option_type": "CE",
+        "date": "23/01/2024",
+        "time": "13:08:59",
+        "qty": 25,
+        "current_price": 0.2
+    },
+    "ce_buy_pos_61": {
+        "entry_price": 2.9,
+        "strike": 22400,
+        "option_type": "CE",
+        "date": "23/01/2024",
+        "time": "13:08:59",
+        "qty": 25,
+        "current_price": 0.05
+    },
+    "ce_sell_pos_62": {
+        "entry_price": 21.35,
+        "strike": 21700,
+        "option_type": "CE",
+        "date": "23/01/2024",
+        "time": "13:10:59",
+        "qty": 25,
+        "current_price": 0.2
+    },
+    "ce_buy_pos_63": {
+        "entry_price": 3.0,
+        "strike": 22400,
+        "option_type": "CE",
+        "date": "23/01/2024",
+        "time": "13:10:59",
+        "qty": 25,
+        "current_price": 0.05
+    },
+    "ce_sell_pos_64": {
+        "entry_price": 18.85,
+        "strike": 21700,
+        "option_type": "CE",
+        "date": "23/01/2024",
+        "time": "13:58:59",
+        "qty": 25,
+        "current_price": 0.2
+    },
+    "ce_buy_pos_65": {
+        "entry_price": 2.9,
+        "strike": 22400,
+        "option_type": "CE",
+        "date": "23/01/2024",
+        "time": "13:58:59",
+        "qty": 25,
+        "current_price": 0.05
+    },
+    "ce_sell_pos_66": {
+        "entry_price": 16.7,
+        "strike": 21700,
+        "option_type": "CE",
+        "date": "23/01/2024",
+        "time": "14:21:59",
+        "qty": 25,
+        "current_price": 0.2
+    },
+    "ce_buy_pos_67": {
+        "entry_price": 3.25,
+        "strike": 22400,
+        "option_type": "CE",
+        "date": "23/01/2024",
+        "time": "14:21:59",
+        "qty": 25,
+        "current_price": 0.05
+    },
+    "ce_sell_pos_68": {
+        "entry_price": 14.4,
+        "strike": 21700,
+        "option_type": "CE",
+        "date": "23/01/2024",
+        "time": "14:26:59",
+        "qty": 25,
+        "current_price": 0.2
+    },
+    "ce_buy_pos_69": {
+        "entry_price": 3.6,
+        "strike": 22400,
+        "option_type": "CE",
+        "date": "23/01/2024",
+        "time": "14:26:59",
+        "qty": 25,
+        "current_price": 0.05
+    },
+    "ce_sell_pos_70": {
+        "entry_price": 12.85,
+        "strike": 21700,
+        "option_type": "CE",
+        "date": "23/01/2024",
+        "time": "14:44:59",
+        "qty": 25,
+        "current_price": 0.2
+    },
+    "ce_buy_pos_71": {
+        "entry_price": 3.15,
+        "strike": 22400,
+        "option_type": "CE",
+        "date": "23/01/2024",
+        "time": "14:44:59",
+        "qty": 25,
+        "current_price": 0.05
+    },
+    "ce_sell_pos_72": {
+        "entry_price": 11.1,
+        "strike": 21700,
+        "option_type": "CE",
+        "date": "23/01/2024",
+        "time": "14:57:59",
+        "qty": 25,
+        "current_price": 0.2
+    },
+    "ce_buy_pos_73": {
+        "entry_price": 3.35,
+        "strike": 22400,
+        "option_type": "CE",
+        "date": "23/01/2024",
+        "time": "14:57:59",
+        "qty": 25,
+        "current_price": 0.05
+    },
+    "ce_sell_pos_74": {
+        "entry_price": 7.4,
+        "strike": 21700,
+        "option_type": "CE",
+        "date": "24/01/2024",
+        "time": "09:20:59",
+        "qty": 25,
+        "current_price": 0.2
+    },
+    "ce_buy_pos_75": {
+        "entry_price": 1.85,
+        "strike": 22400,
+        "option_type": "CE",
+        "date": "24/01/2024",
+        "time": "09:20:59",
+        "qty": 25,
+        "current_price": 0.05
+    },
+    "ce_sell_pos_76": {
+        "entry_price": 6.5,
+        "strike": 21700,
+        "option_type": "CE",
+        "date": "24/01/2024",
+        "time": "11:29:59",
+        "qty": 25,
+        "current_price": 0.2
+    },
+    "ce_buy_pos_77": {
+        "entry_price": 0.95,
+        "strike": 22400,
+        "option_type": "CE",
+        "date": "24/01/2024",
+        "time": "11:29:59",
+        "qty": 25,
+        "current_price": 0.05
+    },
+    "ce_sell_pos_78": {
+        "entry_price": 5.0,
+        "strike": 21700,
+        "option_type": "CE",
+        "date": "24/01/2024",
+        "time": "11:31:59",
+        "qty": 25,
+        "current_price": 0.2
+    },
+    "ce_buy_pos_79": {
+        "entry_price": 1.1,
+        "strike": 22400,
+        "option_type": "CE",
+        "date": "24/01/2024",
+        "time": "11:31:59",
+        "qty": 25,
+        "current_price": 0.05
+    },
+    "ce_sell_pos_80": {
+        "entry_price": 4.5,
+        "strike": 21700,
+        "option_type": "CE",
+        "date": "24/01/2024",
+        "time": "12:38:59",
+        "qty": 25,
+        "current_price": 0.2
+    },
+    "ce_buy_pos_81": {
+        "entry_price": 1.15,
+        "strike": 22400,
+        "option_type": "CE",
+        "date": "24/01/2024",
+        "time": "12:38:59",
+        "qty": 25,
+        "current_price": 0.05
+    },
+    "ce_sell_pos_82": {
+        "entry_price": 3.65,
+        "strike": 21700,
+        "option_type": "CE",
+        "date": "25/01/2024",
+        "time": "09:24:59",
+        "qty": 25,
+        "current_price": 0.2
+    },
+    "ce_buy_pos_83": {
+        "entry_price": 0.7,
+        "strike": 22400,
+        "option_type": "CE",
+        "date": "25/01/2024",
+        "time": "09:24:59",
+        "qty": 25,
+        "current_price": 0.05
+    },
+    "ce_sell_pos_84": {
+        "entry_price": 3.25,
+        "strike": 21700,
+        "option_type": "CE",
+        "date": "25/01/2024",
+        "time": "09:45:59",
+        "qty": 25,
+        "current_price": 0.2
+    },
+    "ce_buy_pos_85": {
+        "entry_price": 0.55,
+        "strike": 22400,
+        "option_type": "CE",
+        "date": "25/01/2024",
+        "time": "09:45:59",
+        "qty": 25,
+        "current_price": 0.05
+    },
+    "ce_sell_pos_86": {
+        "entry_price": 2.8,
+        "strike": 21700,
+        "option_type": "CE",
+        "date": "25/01/2024",
+        "time": "10:01:59",
+        "qty": 25,
+        "current_price": 0.2
+    },
+    "ce_buy_pos_87": {
+        "entry_price": 0.55,
+        "strike": 22400,
+        "option_type": "CE",
+        "date": "25/01/2024",
+        "time": "10:01:59",
+        "qty": 25,
+        "current_price": 0.05
+    },
+    "ce_sell_pos_88": {
+        "entry_price": 2.5,
+        "strike": 21700,
+        "option_type": "CE",
+        "date": "25/01/2024",
+        "time": "10:15:59",
+        "qty": 25,
+        "current_price": 0.2
+    },
+    "ce_buy_pos_89": {
+        "entry_price": 0.6,
+        "strike": 22400,
+        "option_type": "CE",
+        "date": "25/01/2024",
+        "time": "10:15:59",
+        "qty": 25,
+        "current_price": 0.05
+    },
+    "ce_sell_pos_90": {
+        "entry_price": 2.25,
+        "strike": 21700,
+        "option_type": "CE",
+        "date": "25/01/2024",
+        "time": "10:30:59",
+        "qty": 25,
+        "current_price": 0.2
+    },
+    "ce_buy_pos_91": {
+        "entry_price": 0.75,
+        "strike": 22400,
+        "option_type": "CE",
+        "date": "25/01/2024",
+        "time": "10:30:59",
+        "qty": 25,
+        "current_price": 0.05
+    },
+    "ce_sell_pos_92": {
+        "entry_price": 2.0,
+        "strike": 21700,
+        "option_type": "CE",
+        "date": "25/01/2024",
+        "time": "10:36:59",
+        "qty": 25,
+        "current_price": 0.2
+    },
+    "ce_buy_pos_93": {
+        "entry_price": 0.7,
+        "strike": 22400,
+        "option_type": "CE",
+        "date": "25/01/2024",
+        "time": "10:36:59",
+        "qty": 25,
+        "current_price": 0.05
+    },
+    "ce_sell_pos_94": {
+        "entry_price": 1.8,
+        "strike": 21700,
+        "option_type": "CE",
+        "date": "25/01/2024",
+        "time": "10:46:59",
+        "qty": 25,
+        "current_price": 0.2
+    },
+    "ce_buy_pos_95": {
+        "entry_price": 0.55,
+        "strike": 22400,
+        "option_type": "CE",
+        "date": "25/01/2024",
+        "time": "10:46:59",
+        "qty": 25,
+        "current_price": 0.05
+    },
+    "ce_sell_pos_96": {
+        "entry_price": 1.6,
+        "strike": 21700,
+        "option_type": "CE",
+        "date": "25/01/2024",
+        "time": "11:46:59",
+        "qty": 25,
+        "current_price": 0.2
+    },
+    "ce_buy_pos_97": {
+        "entry_price": 0.35,
+        "strike": 22400,
+        "option_type": "CE",
+        "date": "25/01/2024",
+        "time": "11:46:59",
+        "qty": 25,
+        "current_price": 0.05
+    },
+    "ce_sell_pos_98": {
+        "entry_price": 1.4,
+        "strike": 21700,
+        "option_type": "CE",
+        "date": "25/01/2024",
+        "time": "11:48:59",
+        "qty": 25,
+        "current_price": 0.2
+    },
+    "ce_buy_pos_99": {
+        "entry_price": 0.3,
+        "strike": 22400,
+        "option_type": "CE",
+        "date": "25/01/2024",
+        "time": "11:48:59",
+        "qty": 25,
+        "current_price": 0.05
+    },
+    "ce_sell_pos_100": {
+        "entry_price": 1.25,
+        "strike": 21700,
+        "option_type": "CE",
+        "date": "25/01/2024",
+        "time": "11:51:59",
+        "qty": 25,
+        "current_price": 0.2
+    },
+    "ce_buy_pos_101": {
+        "entry_price": 0.3,
+        "strike": 22400,
+        "option_type": "CE",
+        "date": "25/01/2024",
+        "time": "11:51:59",
+        "qty": 25,
+        "current_price": 0.05
+    },
+    "ce_sell_pos_102": {
+        "entry_price": 1.1,
+        "strike": 21700,
+        "option_type": "CE",
+        "date": "25/01/2024",
+        "time": "12:06:59",
+        "qty": 25,
+        "current_price": 0.2
+    },
+    "ce_buy_pos_103": {
+        "entry_price": 0.3,
+        "strike": 22400,
+        "option_type": "CE",
+        "date": "25/01/2024",
+        "time": "12:06:59",
+        "qty": 25,
+        "current_price": 0.05
+    },
+    "ce_sell_pos_104": {
+        "entry_price": 0.95,
+        "strike": 21700,
+        "option_type": "CE",
+        "date": "25/01/2024",
+        "time": "12:12:59",
+        "qty": 25,
+        "current_price": 0.2
+    },
+    "ce_buy_pos_105": {
+        "entry_price": 0.3,
+        "strike": 22400,
+        "option_type": "CE",
+        "date": "25/01/2024",
+        "time": "12:12:59",
+        "qty": 25,
+        "current_price": 0.05
+    },
+    "ce_sell_pos_106": {
+        "entry_price": 0.85,
+        "strike": 21700,
+        "option_type": "CE",
+        "date": "25/01/2024",
+        "time": "14:11:59",
+        "qty": 25,
+        "current_price": 0.2
+    },
+    "ce_buy_pos_107": {
+        "entry_price": 0.25,
+        "strike": 22400,
+        "option_type": "CE",
+        "date": "25/01/2024",
+        "time": "14:11:59",
+        "qty": 25,
+        "current_price": 0.05
+    },
+    "ce_sell_pos_108": {
+        "entry_price": 0.65,
+        "strike": 21700,
+        "option_type": "CE",
+        "date": "25/01/2024",
+        "time": "14:13:59",
+        "qty": 25,
+        "current_price": 0.2
+    },
+    "ce_buy_pos_109": {
+        "entry_price": 0.2,
+        "strike": 22400,
+        "option_type": "CE",
+        "date": "25/01/2024",
+        "time": "14:13:59",
+        "qty": 25,
+        "current_price": 0.05
+    },
+    "ce_sell_pos_110": {
+        "entry_price": 0.55,
+        "strike": 21700,
+        "option_type": "CE",
+        "date": "25/01/2024",
+        "time": "14:16:59",
+        "qty": 25,
+        "current_price": 0.2
+    },
+    "ce_buy_pos_111": {
+        "entry_price": 0.2,
+        "strike": 22400,
+        "option_type": "CE",
+        "date": "25/01/2024",
+        "time": "14:16:59",
+        "qty": 25,
+        "current_price": 0.05
+    },
+    "ce_sell_pos_112": {
+        "entry_price": 0.45,
+        "strike": 21700,
+        "option_type": "CE",
+        "date": "25/01/2024",
+        "time": "14:19:59",
+        "qty": 25,
+        "current_price": 0.2
+    },
+    "ce_buy_pos_113": {
+        "entry_price": 0.1,
+        "strike": 22400,
+        "option_type": "CE",
+        "date": "25/01/2024",
+        "time": "14:19:59",
+        "qty": 25,
+        "current_price": 0.05
+    },
+    "ce_sell_pos_114": {
+        "entry_price": 0.4,
+        "strike": 21700,
+        "option_type": "CE",
+        "date": "25/01/2024",
+        "time": "14:22:59",
+        "qty": 25,
+        "current_price": 0.2
+    },
+    "ce_buy_pos_115": {
+        "entry_price": 0.1,
+        "strike": 22400,
+        "option_type": "CE",
+        "date": "25/01/2024",
+        "time": "14:22:59",
+        "qty": 25,
+        "current_price": 0.05
+    },
+    "ce_sell_pos_116": {
+        "entry_price": 0.35,
+        "strike": 21700,
+        "option_type": "CE",
+        "date": "25/01/2024",
+        "time": "14:35:59",
+        "qty": 25,
+        "current_price": 0.2
+    },
+    "ce_buy_pos_117": {
+        "entry_price": 0.1,
+        "strike": 22400,
+        "option_type": "CE",
+        "date": "25/01/2024",
+        "time": "14:35:59",
+        "qty": 25,
+        "current_price": 0.05
+    },
+    "ce_sell_pos_118": {
+        "entry_price": 0.3,
+        "strike": 21700,
+        "option_type": "CE",
+        "date": "25/01/2024",
+        "time": "14:39:59",
+        "qty": 25,
+        "current_price": 0.2
+    },
+    "ce_buy_pos_119": {
+        "entry_price": 0.05,
+        "strike": 22400,
+        "option_type": "CE",
+        "date": "25/01/2024",
+        "time": "14:39:59",
+        "qty": 25,
+        "current_price": 0.05
+    },
+    "ce_sell_pos_120": {
+        "entry_price": 0.25,
+        "strike": 21700,
+        "option_type": "CE",
+        "date": "25/01/2024",
+        "time": "14:42:59",
+        "qty": 25,
+        "current_price": 0.2
+    },
+    "ce_buy_pos_121": {
+        "entry_price": 0.05,
+        "strike": 22400,
+        "option_type": "CE",
+        "date": "25/01/2024",
+        "time": "14:42:59",
+        "qty": 25,
+        "current_price": 0.05
+    },
+    "ce_sell_pos_122": {
+        "entry_price": 0.2,
+        "strike": 21700,
+        "option_type": "CE",
+        "date": "25/01/2024",
+        "time": "14:53:59",
+        "qty": 25,
+        "current_price": 0.2
+    },
+    "ce_buy_pos_123": {
+        "entry_price": 0.05,
+        "strike": 22400,
+        "option_type": "CE",
+        "date": "25/01/2024",
+        "time": "14:53:59",
+        "qty": 25,
+        "current_price": 0.05
+    },
+    "ce_sell_pos_124": {
+        "entry_price": 0.15,
+        "strike": 21700,
+        "option_type": "CE",
+        "date": "25/01/2024",
+        "time": "15:06:59",
+        "qty": 25,
+        "current_price": 0.2
+    },
+    "ce_buy_pos_125": {
+        "entry_price": 0.05,
+        "strike": 22400,
+        "option_type": "CE",
+        "date": "25/01/2024",
+        "time": "15:06:59",
+        "qty": 25,
+        "current_price": 0.05
+    },
+    "ce_sell_pos_126": {
+        "entry_price": 0.1,
+        "strike": 21700,
+        "option_type": "CE",
+        "date": "25/01/2024",
+        "time": "15:08:59",
+        "qty": 25,
+        "current_price": 0.2
+    },
+    "ce_buy_pos_127": {
+        "entry_price": 0.05,
+        "strike": 22400,
+        "option_type": "CE",
+        "date": "25/01/2024",
+        "time": "15:08:59",
+        "qty": 25,
+        "current_price": 0.05
+    },
+    "ce_sell_pos_128": {
+        "entry_price": 0.05,
+        "strike": 21700,
+        "option_type": "CE",
+        "date": "25/01/2024",
+        "time": "15:23:59",
+        "qty": 25,
+        "current_price": 0.2
+    },
+    "ce_buy_pos_129": {
+        "entry_price": 0.05,
+        "strike": 22400,
+        "option_type": "CE",
+        "date": "25/01/2024",
+        "time": "15:23:59",
+        "qty": 25,
+        "current_price": 0.05
+    }
+}
